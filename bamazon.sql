@@ -11,3 +11,4 @@ CREATE TABLE products (
   stock_quantity VARCHAR(50) NOT NULL,
   PRIMARY KEY (id)
 );
+
